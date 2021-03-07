@@ -23,7 +23,7 @@
 | **imgs** | 轮播图片地址 |
 | **height/width** | 轮播图框的高/宽 |
 
-使用的方式样例如下
+使用的样例如下
 
 ```html
 <script type="text/javascript">
