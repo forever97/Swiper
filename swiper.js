@@ -194,7 +194,7 @@ function Swiper(options) {
     swiper.onmouseleave = function () {
         intervalId = setInterval(function () {
             nxtBtn.click()
-        }, 2000)
+        }, 3000)
     }
 
     // 选中小圆圈 委托
